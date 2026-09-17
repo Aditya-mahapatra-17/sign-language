@@ -55,8 +55,8 @@ This project utilizes the [Kaggle ASL Alphabet Dataset](https://www.kaggle.com/d
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/SignBridge.git
-   cd SignBridge
+   git clone https://github.com/Aditya-mahapatra-17/sign-language.git
+   cd sign-language
    ```
 
 2. **Set up a Virtual Environment**
