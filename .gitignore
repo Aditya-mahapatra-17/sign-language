@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+.env
+
+# Data
+data/raw/*
+data/processed/*
+!data/README.md
+
+# Models
+models/*
+!models/class_names.json
+!models/README.md
+!models/.gitkeep
+
+# Outputs
+outputs/*
+!outputs/README.md
+!outputs/.gitkeep
+
+# Streamlit
+.streamlit/
+
+# Linux venv
+venv_linux/
+
+# OS generated files
+.DS_Store
+Thumbs.db
